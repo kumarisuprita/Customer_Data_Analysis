@@ -39,8 +39,8 @@ Data Analysis, Data Cleaning, Customer Segmentation, Data Visualization, Busines
 ## Dashboard Preview
 
 ### Dashboard 1
-![Dashboard 1](Dashboard-1.png)
+![Dashboard 1](Dashboard-1.jpeg)
 
 ### Dashboard 2
-![Dashboard 2](Dashboard-2.png)
+![Dashboard 2](Dashboard-2.jpeg)
 
