@@ -30,3 +30,17 @@ This project focuses on analyzing customer transaction data from multiple shoppi
 ## Skills Demonstrated
 Data Analysis, Data Cleaning, Customer Segmentation, Data Visualization, Business Insights.
 
+## Project Deliverables
+
+- Customer and Revenue Dashboard Insights (PowerPoint Presentation)
+- Customer and Revenue Dashboard Analysis Report (PDF)
+- Dashboard Screenshots
+
+## Dashboard Preview
+
+### Dashboard 1
+![Dashboard 1](Dashboard-1.png)
+
+### Dashboard 2
+![Dashboard 2](Dashboard-2.png)
+
