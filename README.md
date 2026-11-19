@@ -11,8 +11,8 @@ This project focuses on analyzing customer transaction data from multiple shoppi
 - Identify revenue patterns and business insights.
 
 ## Tools & Technologies
-- SQL (MySQL)
-- Power BI / Tableau
+- Power Query
+- Microsoft Power BI 
 - Microsoft Excel
 
 ## Analysis Performed
@@ -28,5 +28,5 @@ This project focuses on analyzing customer transaction data from multiple shoppi
 - Customer purchasing patterns varied across age groups.
 
 ## Skills Demonstrated
-SQL, Data Analysis, Data Cleaning, Customer Segmentation, Data Visualization, Business Insights.
+Data Analysis, Data Cleaning, Customer Segmentation, Data Visualization, Business Insights.
 
